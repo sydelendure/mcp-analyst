@@ -1,0 +1,9 @@
+Order_ID,Date,Country,Currency,Revenue,Quantity,Category
+APAC-3001,2026-03-01,JP,JPY,850000.0,45,Consumer Hardware
+APAC-3002,2026-03-03,SG,SGD,14200.0,18,Cloud Hosting
+APAC-3003,2026-03-06,AU,AUD,22500.0,22,Enterprise Software
+APAC-3004,2026-03-08,IN,INR,450000.0,60,Cloud Hosting
+APAC-3005,2026-03-11,JP,JPY,-25000.0,1,Consumer Hardware
+APAC-3006,2026-03-14,SG,SGD,31000.0,35,Enterprise Software
+APAC-3007,2026-03-17,AU,AUD,18900.0,15,Consumer Hardware
+APAC-3008,2026-03-20,IN,INR,980000.0,110,Cloud Hosting

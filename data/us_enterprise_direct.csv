@@ -1,0 +1,8 @@
+Order_ID,Date,Country,Currency,Revenue,Quantity,Category
+USE-4001,2026-04-01,US,USD,65000.0,40,Dedicated Infrastructure
+USE-4002,2026-04-03,CA,CAD,48000.0,25,Cybersecurity Audit
+USE-4003,2026-04-06,US,USD,120000.0,75,AI Engine Licensing
+USE-4004,2026-04-10,US,USD,-8500.0,3,Cybersecurity Audit
+USE-4005,2026-04-12,CA,CAD,72000.0,38,Dedicated Infrastructure
+USE-4006,2026-04-16,US,USD,340000.0,150,AI Engine Licensing
+USE-4007,2026-04-20,US,USD,95000.0,50,Dedicated Infrastructure
